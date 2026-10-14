@@ -1,0 +1,14 @@
+em {
+    color: orange;
+}
+
+code {
+    color: lime;
+    text-decoration: underline;
+    /* font-family:sans-serif; */
+}
+
+dt>code {
+    background-color: black;
+    color: white;
+}
